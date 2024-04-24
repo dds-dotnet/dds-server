@@ -1,4 +1,4 @@
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://avatars.githubusercontent.com/u/125957062?s=100&v=4" />
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="./.assets/DDS.Net Icon-BG-None.png" width="15%" />
 
 
 # DDS.Net Server - v1.3.0
